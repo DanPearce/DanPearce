@@ -9,11 +9,11 @@
 
 - 💻 View my work here on [github.com/DanPearce](https://github.com/DanPearce)
 
-- 🔭 I’m currently working on a [React Project [Watch this Space!]](https://github.com/DanPearce)
+- 🔭 I’m currently working on [Nexus - React Social Network App](https://github.com/DanPearce/CI_PP5_Nexus)
 
 - 💪 My most recent project is [theforum](https://github.com/DanPearce/CI_PP4_TheForum)
 
-- 🌱 In my full-stack journey, I am currently learning **React and Node.js**
+- 🌱 In my full-stack journey, I am currently learning **React**
 
 - 📫 Contact me at info@danpearcedev.com
 
