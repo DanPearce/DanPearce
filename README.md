@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a Full Stack Software Developer from the UK 🇬🇧</h3>
 
-<p align="center">👨‍💻 Currently working full time at <a href="https://impactitsolutions.com/" alt="Visit Impact IT Solutions (Opens in a new window)">Impact IT Solutions</a> as an <strong>Service Desk Engineer!</strong></p>
+<p align="center">👨‍💻 Currently working full time at <a href="https://www.computershare.com/uk/" alt="Visit Computershare (Opens in a new window)">Computershare </a> as an <strong>Remote Site Support Analyst!</strong></p>
 
 <br>
 
