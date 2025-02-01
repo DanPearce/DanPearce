@@ -1,25 +1,25 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=600&size=40&pause=1000&color=FEFDFD&center=true&vCenter=true&width=900&lines=Dan+Pearce+-+Full+Stack+Software+Developer" alt="Typing SVG" /></a>
 <hr>
 
-<h3 align="center">I am a Full Stack Software Developer from the UK 🇬🇧</h3>
+<h3 align="center">I am a Software Developer from the UK 🇬🇧</h3>
 
-<p align="center">👨‍💻 Currently working full time at <a href="https://www.computershare.com/uk/" alt="Visit Computershare (Opens in a new window)">Computershare </a> as an <strong>Remote Site Support Analyst!</strong></p>
+<p align="center">👨‍💻 Currently working full time at <a href="https://www.computershare.com/uk/" alt="Visit Computershare (Opens in a new window)">Computershare </a> as an <strong>Application Support Analyst!</strong></p>
 
 <br>
 
 - 💻 View my work here on [github.com/DanPearce](https://github.com/DanPearce)
 
-- 🔭 I’m currently working on [Nexus - React Social Network App](https://github.com/DanPearce/CI_PP5_Nexus)
+- 🔭 I’m currently working on developing my skills to include Visual Basic. 
 
-- 💪 My most recent project is [theforum](https://github.com/DanPearce/CI_PP4_TheForum)
+- 💪 My most recent project is [Nexus - React Social Network App](https://github.com/DanPearce/CI_PP5_Nexus)
 
 - 🌱 In my full-stack journey, I am currently learning **React**
 
-- 📫 Contact me at info@danpearcedev.com
+- 📫 Contact me at info@danielpearce.co.uk
 
-- ⌘ Learn more about me at [danpearcedev.com](https://danpearcedev.com/)
+- ⌘ Learn more about me at [danielpearce.co.uk](https://danielpearce.co.uk/)
 
-- 🤝 I'm looking to meet new people on [Linkedin](https://www.linkedin.com/in/danielapearce/)
+- 🤝 I'm looking to meet new people on [Linkedin](https://www.linkedin.com/in/danielanthonypearce/)
 
 - ⚡ Fun fact **I am addicted to Happy Hardcore!**
 
