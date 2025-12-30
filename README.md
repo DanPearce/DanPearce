@@ -3,17 +3,17 @@
 
 <h3 align="center">I am a Software Developer from the UK 🇬🇧</h3>
 
-<p align="center">👨‍💻 Currently working full time at <a href="https://www.computershare.com/uk/" alt="Visit Computershare (Opens in a new window)">Computershare</a> as an <strong>Application Support Analyst!</strong></p>
+<p align="center">👨‍💻 Currently working full time at <a href="https://www.computershare.com/uk/" alt="Visit Computershare (Opens in a new window)">Computershare</a> as an <strong>Junior Developer!</strong></p>
 
 <br>
 
 - 💻 View my work here on [github.com/DanPearce](https://github.com/DanPearce)
 
-- 🔭 I’m currently developing my skills in [**.NET** Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) 
+- 🔭 I’m currently developing my skills in [**.NET** C#](https://dotnet.microsoft.com/en-us/languages/csharp) 
 
 - 💪 My most recent project is [Nexus - React Social Network App](https://github.com/DanPearce/CI_PP5_Nexus)
 
-- 🌱 In my full-stack journey, I am currently learning [**React**](https://react.dev/)
+- 🌱 In my full-stack journey, I am actively developing in [**React**](https://react.dev/)
 
 - 📫 Contact me at info@danielpearce.co.uk
 
