@@ -40,47 +40,12 @@
 <h3 align="left">Tech Stack & Tools</h3>
 
 <p align="left">
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,postgres,py,git,html,css"
+      alt="C#, .NET, React, TypeScript, JavaScript, PostgreSQL, Python, Git, HTML and CSS"
+    />
   </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
 </p>
 
 <br>
@@ -88,33 +53,9 @@
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-
-  <a href="https://x.com/danthonypearce" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Dan Pearce on X"
-      height="30"
-      width="40"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/danielanthonypearce/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Dan Pearce on LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
-
-  <a href="https://instagram.com/danielanthonypearce" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Dan Pearce on Instagram"
-      height="30"
-      width="40"
-    />
-  </a>
+<a href="https://x.com/danthonypearce" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/danielanthonypearce/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/danielanthonypearce" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="32" height="32"></a>
 
 </p>
 
