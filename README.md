@@ -1,31 +1,33 @@
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=600&size=40&pause=1000&color=FEFDFD&center=true&vCenter=true&width=900&lines=Dan+Pearce+-+Software+Developer"
-    alt="Dan Pearce - Software Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=600&size=40&pause=1000&color=FEFDFD&center=true&vCenter=true&width=900&lines=Dan+Pearce+-+Full+Stack+Developer"
+    alt="Dan Pearce - Full Stack Developer"
   />
 </a>
 
 <hr>
 
-<h3 align="center">Software Developer based in Bristol, UK 🇬🇧</h3>
+<h3 align="center">Full Stack Developer based in Bristol, UK 🇬🇧</h3>
 
 <p align="center">
   👨💻 Developer at
   <a href="https://www.computershare.com/uk/">Computershare</a>,
-  contributing to business-critical applications within a regulated financial environment.
+  contributing to enterprise applications and software solutions.
 </p>
 
 <br>
 
-- 💻 Working professionally with **C#, .NET, SQL, React and JavaScript**
+- 💻 **Full Stack Developer** with experience across software development, application support and enterprise systems
 
-- ⚙️ Focused on building **reliable, maintainable and scalable software**
+- ⚙️ Passionate about building **reliable, scalable, secure and maintainable software**
 
-- 🧠 Developing my skills across **C#, .NET, LINQ, SQL, React and TypeScript**
+- 🧠 Interested in **software architecture, system design and modern engineering practices**
 
-- 🛠️ Background in **application support, automation, APIs, debugging and production systems**
+- 🛠️ Experienced in **API development, system integrations, automation, debugging and problem-solving**
 
-- 🚀 Building personal projects to explore modern **full-stack development and software architecture**
+- 🚀 Building personal projects using **C#, .NET, React, TypeScript, Swift and PostgreSQL**
+
+- 📈 Continuously developing my knowledge of **software engineering, cloud technologies and solution architecture**
 
 - 📫 Contact me at **info@danielpearce.co.uk**
 
@@ -33,7 +35,7 @@
 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/danielanthonypearce/)
 
-- ⚡ Fun fact: **I am addicted to Happy Hardcore!**
+- ⚡ Fun fact: **I'm addicted to Happy Hardcore!**
 
 <br>
 
@@ -42,8 +44,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,postgres,py,git,html,css"
-      alt="C#, .NET, React, TypeScript, JavaScript, PostgreSQL, Python, Git, HTML and CSS"
+      src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,postgres,py,swift,docker,git,html,css"
+      alt="C#, .NET, React, Next.js, TypeScript, JavaScript, PostgreSQL, Python, Swift, Docker, Git, HTML and CSS"
     />
   </a>
 </p>
@@ -53,10 +55,15 @@
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-<a href="https://x.com/danthonypearce" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/danielanthonypearce/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/danielanthonypearce" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="32" height="32"></a>
-
+  <a href="https://x.com/dnlpearce" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="32" height="32">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danielanthonypearce/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32">
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/dnlpearce" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="32" height="32">
+  </a>
 </p>
 
 <br>
